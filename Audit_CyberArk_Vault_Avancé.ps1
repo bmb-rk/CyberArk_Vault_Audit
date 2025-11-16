@@ -1,8 +1,8 @@
 <# 
  ============================================
  CyberArk Vault Audit Script Avancé
- Version    : 2.0
- Auteur     : Assistant IA
+ Version    : 1.0
+ Auteur     : Abdelaziz-AitBambark
  Description: Audit complet du serveur Vault CyberArk
               avec vérifications de sécurité, performance et conformité
  ============================================ 
